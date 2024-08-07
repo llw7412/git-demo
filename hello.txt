@@ -16,5 +16,8 @@ hello world
 hello world
 hello world
 hello world
+<<<<<<< HEAD
 hello world    master
-hello world
+=======
+hello world   hot-fix test
+>>>>>>> hot-fix
