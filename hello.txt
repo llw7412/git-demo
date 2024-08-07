@@ -16,8 +16,6 @@ hello world
 hello world
 hello world
 hello world
-<<<<<<< HEAD
 hello world    master
-=======
 hello world   hot-fix test
->>>>>>> hot-fix
+1111111111111111111111111
